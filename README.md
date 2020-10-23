@@ -1,4 +1,5 @@
 # sidehusle-coming-soon-landing-page
 landing page for sidehustle
 
-![]<Screenshot.png>
+<img src="Screenshot.png" alt="img-screenshot">
+
